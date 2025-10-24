@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img width="20%" height="auto" src="https://funny.klev.club/uploads/posts/2024-03/funny-klev-club-p-smeshnie-kartinki-gotovka-yedi-9.jpg" alt="CookGram Banner" />
+  <img width="20%" height="auto" src="https://funny.klev.club/uploads/posts/2024-03/funny-klev-club-p-smeshnie-kartinki-gotovka-yedi-9.jpg"/>
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
 <br />
 
 <!-- ФУНКЦИОНАЛ -->
-<h2 align="center"><img width="30" src=""> Ключевой функционал</h2>
+<h2 align="center">Ключевой функционал</h2>
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Bazhenator"><img src="https://avatars.githubusercontent.com/u/113100166?s=400&u=da4912d13e83d9771e944596eef6bfbb2ce42f1f&v=4" width="100px;" alt=""/><br /><sub><b>Софья Флусова (Frontend Dev)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sashass635"><img src="https://grizly.club/uploads/posts/2023-01/1674674923_grizly-club-p-lvenok-klipart-1.png" width="100px;" alt=""/><br /><sub><b>Александра Струк (Frontend Dev)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sashass635"><img src="https://i.pinimg.com/564x/b4/70/52/b4705262baade08b3bda17a757a385bb.jpg" width="100px;" alt=""/><br /><sub><b>Александра Струк (Frontend Dev)</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/DinozavrrrDan"><img src="https://pictures.pibig.info/uploads/posts/2023-04/1680564486_pictures-pibig-info-p-malenkii-dinozavrik-risunok-instagram-4.jpg" width="100px;" alt=""/><br /><sub><b>Данил Недорезов (Backend Dev)</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/magellon17"><img src="https://avatars.githubusercontent.com/u/113712614?v=4" width="100px;" alt=""/><br /><sub><b>Борис Сиобко (Backend Dev)</b></sub></a><br /></td>
   </tr>
