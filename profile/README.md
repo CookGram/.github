@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Добро+пожаловать+в+CookGram!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Добро+пожаловать+в+CookGram!+🍳" />
 </p>
 
 <div align="center">
-  <img width="100%" height="auto" src="https://funny.klev.club/uploads/posts/2024-03/funny-klev-club-p-smeshnie-kartinki-gotovka-yedi-9.jpg" alt="CookGram Banner" />
+  <img width="20%" height="auto" src="https://funny.klev.club/uploads/posts/2024-03/funny-klev-club-p-smeshnie-kartinki-gotovka-yedi-9.jpg" alt="CookGram Banner" />
 </div>
 
 <br/>
 
 <!-- ОПИСАНИЕ ПРОЕКТА -->
-<h2 align="center"><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-2171-4d6a-b34a-123650b6eb4e"> О проекте</h2>
+<h2 align="center"><img width="20" src="https://img.freepik.com/premium-vector/line-icon-open-book-vector-outline-illustration-isolated-white-reading-symbol_439591-525.jpg?semt=ais_hybrid&w=740&q=80"> О проекте</h2>
 
 <p align="center">
   <strong>CookGram</strong> — это социальная платформа для гурманов и любителей готовки! 🍳✨ <br/>
@@ -19,7 +19,7 @@
 <br />
 
 <!-- ФУНКЦИОНАЛ -->
-<h2 align="center"><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5195d307-13e0-49a6-bfac-f09130c8b7f7"> Ключевой функционал</h2>
+<h2 align="center"><img width="30" src=""> Ключевой функционал</h2>
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 <br />
 
 <!-- ТЕХНОЛОГИИ -->
-<h2 align="center"><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5195d307-13e0-49a6-bfac-f09130c8b7f7"> Технологический стек</h2>
+<h2 align="center"><img width="30" src="https://cdn-icons-png.flaticon.com/512/103/103657.png"> Технологический стек</h2>
 
 <div align="center">
 
@@ -55,15 +55,15 @@
 <br />
 
 <!-- КОМАНДА -->
-<h2 align="center"><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-2171-4d6a-b34a-123650b6eb4e"> Наша команда</h2>
+<h2 align="center"><img width="30" src="https://cdn-icons-png.flaticon.com/512/2636/2636184.png"> Наша команда</h2>
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Bazhenator"><img src="https://avatars.githubusercontent.com/u/113100166?s=400&u=da4912d13e83d9771e944596eef6bfbb2ce42f1f&v=4" width="100px;" alt=""/><br /><sub><b>Софья Флусова (Frontend Dev)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sashass635"><br /><sub><b>Александра Струк (Frontend Dev)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/DinozavrrrDan"><br /><sub><b>Данил Недорезов (Backend Dev)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sashass635"><img src="https://grizly.club/uploads/posts/2023-01/1674674923_grizly-club-p-lvenok-klipart-1.png" width="100px;" alt=""/><br /><sub><b>Александра Струк (Frontend Dev)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/DinozavrrrDan"><img src="https://pictures.pibig.info/uploads/posts/2023-04/1680564486_pictures-pibig-info-p-malenkii-dinozavrik-risunok-instagram-4.jpg" width="100px;" alt=""/><br /><sub><b>Данил Недорезов (Backend Dev)</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/magellon17"><img src="https://avatars.githubusercontent.com/u/113712614?v=4" width="100px;" alt=""/><br /><sub><b>Борис Сиобко (Backend Dev)</b></sub></a><br /></td>
   </tr>
 </table>
@@ -73,7 +73,7 @@
 <br />
 
 <!-- ЗАПУСК ПРОЕКТА -->
-<h2 align="center"><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5195d307-13e0-49a6-bfac-f09130c8b7f7"> Запуск проекта</h2>
+<h2 align="center"><img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtdmxtV6dsJwtBGZflyfnkerbwAniTZjZvw&s"> Запуск проекта</h2>
 
 ### 🛠️ Локальная установка и запуск
 
