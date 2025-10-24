@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img width="20%" height="auto" src="https://funny.klev.club/uploads/posts/2024-03/funny-klev-club-p-smeshnie-kartinki-gotovka-yedi-9.jpg">
+  <img width="30%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_64_zd5NXsMAw1U1CeMJ5coFb8pQx5i5wQ&s">
 </div>
 
 <br/>
